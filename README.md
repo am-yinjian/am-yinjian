@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Architecture and Organization**
 
-- 📫 How to reach me **am.yinjian@gmail.com**
+- 📫 How to reach me **am.yinjian@gmail.com** or **jian0886@umn.edu**
 
 - ⚡ Fun fact **Interested in game development**
 
